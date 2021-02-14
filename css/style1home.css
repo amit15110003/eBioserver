@@ -1,0 +1,57 @@
+	
+		html body {
+		width: 100%;
+		height: 100%;
+  
+        }
+			.header{ 
+				background-color: #080808;
+				width:100%;
+				height:10vh;
+				text-align: left;
+			    color: white;
+				font-size: 30px;
+				font-style:italic;
+				padding-top:13px;
+			}
+			
+			.SideBar {
+				  height:100%;
+				background-color: lightblue;
+		     
+				
+			}
+			.SideBar a{
+				 margin-left:10px;
+				 text-decoration: none;
+				  font-size: 15px;
+				  color:black;
+			
+			}
+			
+			.main{
+				height:85vh;
+				
+			}
+			.mainbar {
+				border: 2px; 
+	            margin-bottom: 20 px;
+           			
+			}
+			.mainbar table
+			{
+			       
+				  text-align: right;
+				
+			}
+			
+			.footer{
+				clear:both;
+				height: 5vh;
+				width: 100%;
+				bottom: 0%
+				text-align: right;
+				background-color: #080808;
+			}
+			
+			
